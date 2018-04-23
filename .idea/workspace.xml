@@ -2,8 +2,117 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a0ca908-f815-432d-83d8-647ffe30530c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/Activitie.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityAllotation.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityAttachment.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityBanner.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityComparisonGauge.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityGaugeScores.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityLevel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityManager.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityParticipant.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityPeopleScore.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityResource.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityScope.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityTypeConfig.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityWork.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/BaseDomain.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/BaseExtDomain.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ManagerDiscountRecord.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ManagerIntegral.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ManagerIntegralRecord.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ManagerNews.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ManagerNewsText.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ManagerSchool.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ManagerSubscribeDeploy.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ManagerSubscribeGroup.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ManagerSubscribeSchool.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/PaperExam.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/PaperExamProperty.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/PaperQuestion.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/PaperQuestionText.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/PaperQuestionType.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/PaperSectionQuestion.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/PaperSubPaper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/PaperSubQuestionType.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/PaperSubRefQuestion.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResShare.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResSolr.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceBusiness.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceCategory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceFavorite.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceFile.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceFileFormat.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceFileFormatGroup.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceInfo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceKeyvalue.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceOrgResource.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourcePrepareInfo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourcePush.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceRecommendFile.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceReferenceRecord.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceResBrowse.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceResCollect.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceResComment.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceResDownload.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceResGrade.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceResLabel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceType.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceWeight.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/mobile/MobileResourceInfo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/mobile/MobileResourceResGrade.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/mobile/MobileResourceType.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/AccountView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/ActExcelExport.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/BaseExtDomainVie.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/CampusView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/ChapterView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/ClassView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/CourseDistView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/CourseView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/DomainView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/FileInfoView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/FileUpdateView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/GradationView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/GradeCourseView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/GradeView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/GraduationView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/IntegralFlowRecordView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/IntegralRuleView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/IntegralUserRecordView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/LeamTermView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/LeamYearView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/LearningView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/OptionView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/OrganizationView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/PaperQuestionOptionView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/ParentStudentView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/ParentView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/PrepareLessonExtView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/PrepareLessonInfoView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/PublishView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/QuestionView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/RecommendResourceView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/ResourceEntityView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/ResourcePrepareView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/SchoolView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/SimpleMessageView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/SocialDynamicAttachmentView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/SocialDynamicInfoView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/StudentView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/SubscribeDeployView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/TeachClassView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/TeachView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/TeacherView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/TeachingWeekView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/TermPlanView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/TextBookView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/UpdateSolrIndex.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/UserRoleView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/UserView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/VersionView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/XiaoYuVideoInfoView.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,11 +125,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="ActivityTypeConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/domain/ActivityTypeConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="38" lean-forward="false" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ActivityPeopleScore.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/domain/ActivityPeopleScore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GradeCourseView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/domain/view/GradeCourseView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CourseDistView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/domain/view/CourseDistView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResourceResComment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/domain/ResourceResComment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResourceResDownload.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/domain/ResourceResDownload.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseExtDomain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/domain/BaseExtDomain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrepareLessonExtView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/domain/view/PrepareLessonExtView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ManagerDiscountRecord.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/domain/ManagerDiscountRecord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LearningView.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/domain/view/LearningView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -40,6 +239,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/view/LearningView.java" />
       </list>
     </option>
   </component>
@@ -74,7 +274,35 @@
       <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -85,6 +313,11 @@
     <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.startup.StartupConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study2\src\main\java" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -193,7 +426,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524473917767</updated>
-      <workItem from="1524473920342" duration="1025000" />
+      <workItem from="1524473920342" duration="2109000" />
     </task>
     <task id="LOCAL-00001" summary="feat：第一个项目">
       <created>1524474735568</created>
@@ -209,15 +442,21 @@
       <option name="project" value="LOCAL" />
       <updated>1524475017700</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat：再次push">
+      <created>1524475073141</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1524475073141</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1025000" />
+    <option name="totallyTimeSpent" value="2109000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -231,7 +470,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -255,7 +494,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat：第一个项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat：第一个项目" />
+    <MESSAGE value="feat：再次push" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat：再次push" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -264,8 +504,88 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="38" lean-forward="false" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        <state relative-caret-position="120">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/ActivityTypeConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/ActivityPeopleScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/view/GradeCourseView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/view/CourseDistView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/ResourceResComment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/ResourceResDownload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/BaseExtDomain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/view/PrepareLessonExtView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/ManagerDiscountRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/view/LearningView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
           <folding />
         </state>
       </provider>
