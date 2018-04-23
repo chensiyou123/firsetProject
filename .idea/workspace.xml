@@ -2,116 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a0ca908-f815-432d-83d8-647ffe30530c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/Activitie.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityAllotation.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityAttachment.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityBanner.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityComparisonGauge.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityGaugeScores.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityLevel.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityManager.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityParticipant.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityPeopleScore.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityResource.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityScope.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityTypeConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ActivityWork.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/BaseDomain.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/BaseExtDomain.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ManagerDiscountRecord.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ManagerIntegral.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ManagerIntegralRecord.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ManagerNews.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ManagerNewsText.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ManagerSchool.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ManagerSubscribeDeploy.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ManagerSubscribeGroup.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ManagerSubscribeSchool.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/PaperExam.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/PaperExamProperty.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/PaperQuestion.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/PaperQuestionText.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/PaperQuestionType.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/PaperSectionQuestion.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/PaperSubPaper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/PaperSubQuestionType.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/PaperSubRefQuestion.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResShare.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResSolr.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceBusiness.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceCategory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceFavorite.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceFile.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceFileFormat.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceFileFormatGroup.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceInfo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceKeyvalue.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceOrgResource.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourcePrepareInfo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourcePush.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceRecommendFile.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceReferenceRecord.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceResBrowse.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceResCollect.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceResComment.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceResDownload.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceResGrade.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceResLabel.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceType.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/ResourceWeight.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/mobile/MobileResourceInfo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/mobile/MobileResourceResGrade.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/mobile/MobileResourceType.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/AccountView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/ActExcelExport.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/BaseExtDomainVie.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/CampusView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/ChapterView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/ClassView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/CourseDistView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/CourseView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/DomainView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/FileInfoView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/FileUpdateView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/GradationView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/GradeCourseView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/GradeView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/GraduationView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/IntegralFlowRecordView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/IntegralRuleView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/IntegralUserRecordView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/LeamTermView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/LeamYearView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/LearningView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/OptionView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/OrganizationView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/PaperQuestionOptionView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/ParentStudentView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/ParentView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/PrepareLessonExtView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/PrepareLessonInfoView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/PublishView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/QuestionView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/RecommendResourceView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/ResourceEntityView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/ResourcePrepareView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/SchoolView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/SimpleMessageView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/SocialDynamicAttachmentView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/SocialDynamicInfoView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/StudentView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/SubscribeDeployView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/TeachClassView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/TeachView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/TeacherView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/TeachingWeekView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/TermPlanView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/TextBookView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/UpdateSolrIndex.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/UserRoleView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/UserView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/VersionView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/view/XiaoYuVideoInfoView.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -426,7 +316,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524473917767</updated>
-      <workItem from="1524473920342" duration="2109000" />
+      <workItem from="1524473920342" duration="2225000" />
     </task>
     <task id="LOCAL-00001" summary="feat：第一个项目">
       <created>1524474735568</created>
@@ -449,11 +339,18 @@
       <option name="project" value="LOCAL" />
       <updated>1524475073141</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat：添加实体类">
+      <created>1524476343481</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1524476343481</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2109000" />
+    <option name="totallyTimeSpent" value="2225000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -462,7 +359,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32994187" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32994187" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -470,7 +367,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -495,7 +392,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat：第一个项目" />
     <MESSAGE value="feat：再次push" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat：再次push" />
+    <MESSAGE value="feat：添加实体类" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat：添加实体类" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
