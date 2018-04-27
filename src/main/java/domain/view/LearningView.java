@@ -36,4 +36,5 @@ public class LearningView extends DomainView {
         this.classId = classId;
     }
 
+
 }
