@@ -19,7 +19,6 @@ public class ActivityAllotation {
     @ApiModelProperty(value = "作品id",required = true)
     @Column(name = "work_id")
     private String workId;
-
     @ApiModelProperty(value = "参与人Name")
     @Transient
     private String userName;
