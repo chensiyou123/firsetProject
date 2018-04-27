@@ -35,6 +35,4 @@ public class LearningView extends DomainView {
     public void setClassId(String classId) {
         this.classId = classId;
     }
-
-
 }

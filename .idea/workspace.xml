@@ -109,8 +109,8 @@
       <file leaf-file-name="LearningView.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/domain/view/LearningView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="38" column="4" lean-forward="false" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+            <state relative-caret-position="315">
+              <caret line="36" column="5" lean-forward="false" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -319,7 +319,7 @@
       <updated>1524473917767</updated>
       <workItem from="1524473920342" duration="2810000" />
       <workItem from="1524532516030" duration="75000" />
-      <workItem from="1524795122783" duration="82000" />
+      <workItem from="1524795122783" duration="213000" />
     </task>
     <task id="LOCAL-00001" summary="feat：第一个项目">
       <created>1524474735568</created>
@@ -356,11 +356,18 @@
       <option name="project" value="LOCAL" />
       <updated>1524795183007</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat：测试代码">
+      <created>1524795212027</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1524795212027</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2967000" />
+    <option name="totallyTimeSpent" value="3098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -654,8 +661,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/domain/view/LearningView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="38" column="4" lean-forward="false" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+        <state relative-caret-position="315">
+          <caret line="36" column="5" lean-forward="false" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
           <folding />
         </state>
       </provider>
