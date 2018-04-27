@@ -1,8 +1,6 @@
 package domain;
-
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
-
 import javax.persistence.*;
 
 @Entity
