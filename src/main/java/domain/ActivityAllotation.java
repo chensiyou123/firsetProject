@@ -22,7 +22,7 @@ public class ActivityAllotation {
     @ApiModelProperty(value = "参与人Name")
     @Transient
     private String userName;
-
+    
     @ApiModelProperty(value = "作品标题")
     @Transient
     private String workTitle;
